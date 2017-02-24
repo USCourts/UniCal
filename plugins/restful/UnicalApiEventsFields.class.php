@@ -41,7 +41,7 @@ class UnicalApiEventsFields extends RestfulEntityBaseNode {
 
     $public_fields['image'] = array(
       'property' => 'field_image',
-      'image_styles' => array('thumbnail', 'medium', 'large'),
+      'image_styles' => array('thumbnail', 'medium', 'large', 'ne_landing_thumbnail'),
     );
 
     $public_fields['date'] = array(
