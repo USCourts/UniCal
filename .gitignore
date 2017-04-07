@@ -1,3 +1,6 @@
 node_modules
 .DS_Store
 .sass-cache
+app/build/unical.js
+app/templates.js
+assets/css/styles.css
